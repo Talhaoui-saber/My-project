@@ -1,0 +1,110 @@
+body{
+     background-color:#4db6ac;
+  
+    
+}
+.bac{
+    text-align:center;
+    border-color:black;
+    background-color:white;
+    padding:40px; 
+    margin-top:50px;  
+    margin-right:40px;
+    margin-left:40px;
+    
+}
+h1{
+   /*  font-family: 'DynaPuff', cursive;  */
+   font-family: 'Dancing Script', cursive;
+   text-align:center; 
+   padding-top:-20px;
+   font-size:45px;
+   
+}
+
+input{  
+    font-size:14px;
+    border-style:solid; 
+    border-radius:10px;
+    padding:10px; 
+    padding-left:27px;
+    padding-top:7px;
+    width:234px;
+    margin-bottom:15px; 
+ /*   font-family: 'DynaPuff', cursive;  */  
+/*  font-family: 'Roboto Condensed', sans-serif; */ 
+   font-family: 'Changa', sans-serif;
+   color:black;
+   weight:900px;
+}           
+.music{
+    background-color:#388e3c;
+    border-radius:4px; 
+    border-style:solid; 
+    border-color:#388e3c;
+    color:white;
+    height:20px;
+    width:75px;
+    font-size:20px;
+  /*font-weight:bold;*/
+    outline:0px;
+}
+.blad:hover{
+    background-color:green;
+}
+.X{
+    display:flex;
+    position:relative;
+    
+    
+    
+    
+    
+}
+i{
+   font-size:18px;
+   color:orange; 
+   position:absolute;
+   top:14px;
+   left:5px;
+}
+span{
+    color:red;
+    font-size:20px;
+    font-weight: bold;
+    
+}
+ .blad{
+    color:white;
+    background-color:orange;
+    
+    border-color:orange;
+    padding:9px;   
+    width: 80px;
+    margin-bottom:10px; 
+   /*  padding-left:12px; */
+    position:absolute;
+    top:600px;
+    left:90px;
+} 
+  .hh{
+    margin:10px;
+    background-color:orange; 
+    color:white;
+    font-weight:bold;
+    padding:9px;
+    padding-left:10px;
+    padding-top:10px;
+    width:100%;
+    border:2px solid transparent; 
+    heigth:10px;
+    
+     
+    
+
+}
+.ana{
+    font-family:'Signika Negative', sans-serif;
+    display:flex;
+    font-size:12px;
+}
